@@ -1,32 +1,15 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "Note Taker",
+  "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "aaguirre7",
-  "license": "MIT",
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "express": "^4.17.3",
-    "fs": "^0.0.1-security",
-    "path": "^0.12.7",
-    "router": "^1.3.6",
-    "util": "^0.12.4",
-    "uuid": "^8.3.2"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/aaguirre7/super-rotary-notes.git"
-  },
-  "keywords": [
-    "note",
-    "taker"
-  ],
-  "bugs": {
-    "url": "https://github.com/aaguirre7/super-rotary-notes/issues"
-  },
-  "homepage": "https://github.com/aaguirre7/super-rotary-notes#readme"
+    "express": "^4.16.4",
+    "nodemon": "^2.0.15"
+  }
 }
