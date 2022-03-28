@@ -40,6 +40,11 @@
   It will be tested on my personal server then showed by screenshots  
   ## Questions
 
+   ## Screenshot
+  - ![screenshot](images/note1.jpg)
+  - ![screenshot](images/note2.jpg)
+  - ![screenshot](images/note3.jpg)
+
   
   ### GitHub profile: [BlerandIsm](https://github.com/BlerandIsm)
 
